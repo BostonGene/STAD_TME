@@ -1,0 +1,127 @@
+	Sample	Diagnosis	Age	Lauren	Gender	Histologic_type	Cohort	Batch	Stage	MFP
+SRR7014347	GSM3101117	STAD	25	Diffuse	F	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014315	GSM3101085	STAD	46	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014339	GSM3101109	STAD	75	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014400	GSM3101170	STAD	66	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014379	GSM3101149	STAD	44	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014365	GSM3101135	STAD	44	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014375	GSM3101145	STAD	66	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014334	GSM3101104	STAD	34	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014342	GSM3101112	STAD	68	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014384	GSM3101154	STAD	57	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014322	GSM3101092	STAD	57	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014355	GSM3101125	STAD	66	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014324	GSM3101094	STAD	63	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	BI
+SRR7014295	GSM3101065	STAD	81	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014426	GSM3101196	STAD	83	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014407	GSM3101177	STAD	52	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014418	GSM3101188	STAD	55	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014328	GSM3101098	STAD	72	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014403	GSM3101173	STAD	54	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	BI
+SRR7014363	GSM3101133	STAD	52	Intestinal	M	papillary adenocarcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014402	GSM3101172	STAD	78	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014349	GSM3101119	STAD	66	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014340	GSM3101110	STAD	55	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014393	GSM3101163	STAD	78	Diffuse	M	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014369	GSM3101139	STAD	35	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014312	GSM3101082	STAD	71	Intestinal	M	papillary adenocarcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014370	GSM3101140	STAD	77	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014367	GSM3101137	STAD	72	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014327	GSM3101097	STAD	55	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014323	GSM3101093	STAD	54	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014371	GSM3101141	STAD	80	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014335	GSM3101105	STAD	56	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014360	GSM3101130	STAD	59	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014352	GSM3101122	STAD	60	Intestinal	M	papillary adenocarcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014361	GSM3101131	STAD	77	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014414	GSM3101184	STAD	82	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014412	GSM3101182	STAD	69	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014420	GSM3101190	STAD	85	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014309	GSM3101079	STAD	73	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014333	GSM3101103	STAD	46	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014329	GSM3101099	STAD	65	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014383	GSM3101153	STAD	43	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014394	GSM3101164	STAD	77	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014380	GSM3101150	STAD	40	Diffuse	M	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014362	GSM3101132	STAD	60	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014346	GSM3101116	STAD	67	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014429	GSM3101199	STAD	46	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014388	GSM3101158	STAD	48	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014376	GSM3101146	STAD	45	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014430	GSM3101200	STAD	66	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014382	GSM3101152	STAD	72	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014423	GSM3101193	STAD	76	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014368	GSM3101138	STAD	81	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014410	GSM3101180	STAD	51	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014303	GSM3101073	STAD	70	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014357	GSM3101127	STAD	59	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014291	GSM3101061	STAD	53	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014325	GSM3101095	STAD	51	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014416	GSM3101186	STAD	79	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014318	GSM3101088	STAD	80	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	BI
+SRR7014307	GSM3101077	STAD	79	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014366	GSM3101136	STAD	68	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014353	GSM3101123	STAD	60	Intestinal	M	invasive ductal carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014401	GSM3101171	STAD	56	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014326	GSM3101096	STAD	68	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014419	GSM3101189	STAD	62	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014424	GSM3101194	STAD	48	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014332	GSM3101102	STAD	67	Diffuse	M	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014358	GSM3101128	STAD	59	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014385	GSM3101155	STAD	64	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014354	GSM3101124	STAD	73	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	F
+SRR7014316	GSM3101086	STAD	74	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014304	GSM3101074	STAD	58	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014408	GSM3101178	STAD	73	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014305	GSM3101075	STAD	65	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014425	GSM3101195	STAD	71	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014387	GSM3101157	STAD	63	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014292	GSM3101062	STAD	81	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014373	GSM3101143	STAD	80	Diffuse	M	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014386	GSM3101156	STAD	48	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014293	GSM3101063	STAD	89	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014422	GSM3101192	STAD	36	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014406	GSM3101176	STAD	48	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014428	GSM3101198	STAD	72	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014381	GSM3101151	STAD	75	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014377	GSM3101147	STAD	62	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014314	GSM3101084	STAD	52	Intestinal	M	Medullary carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014311	GSM3101081	STAD	52	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014389	GSM3101159	STAD	84	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014391	GSM3101161	STAD	66	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014398	GSM3101168	STAD	50	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014310	GSM3101080	STAD	56	Diffuse	M	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014341	GSM3101111	STAD	44	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014297	GSM3101067	STAD	48	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014337	GSM3101107	STAD	75	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014299	GSM3101069	STAD	74	Intestinal	M	papillary	PUB_Kim_GSE113255	1	NA	F
+SRR7014374	GSM3101144	STAD	75	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014294	GSM3101064	STAD	44	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014344	GSM3101114	STAD	48	Diffuse	F	mucinous adenocarcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014330	GSM3101100	STAD	64	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014390	GSM3101160	STAD	51	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014301	GSM3101071	STAD	81	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014313	GSM3101083	STAD	61	Intestinal	M	Medullary carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014397	GSM3101167	STAD	72	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014427	GSM3101197	STAD	67	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014395	GSM3101165	STAD	72	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	D
+SRR7014331	GSM3101101	STAD	44	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	IE
+SRR7014356	GSM3101126	STAD	70	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014319	GSM3101089	STAD	55	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	BI
+SRR7014338	GSM3101108	STAD	42	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	BI
+SRR7014413	GSM3101183	STAD	81	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014396	GSM3101166	STAD	59	Diffuse	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014405	GSM3101175	STAD	51	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014411	GSM3101181	STAD	69	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014317	GSM3101087	STAD	52	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014351	GSM3101121	STAD	80	Intestinal	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014409	GSM3101179	STAD	53	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014399	GSM3101169	STAD	53	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	D
+SRR7014378	GSM3101148	STAD	71	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014343	GSM3101113	STAD	56	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014306	GSM3101076	STAD	78	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
+SRR7014392	GSM3101162	STAD	49	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014296	GSM3101066	STAD	86	Intestinal	F	poorly differentiated	PUB_Kim_GSE113255	1	NA	IE
+SRR7014372	GSM3101142	STAD	59	Diffuse	M	poorly differentiated	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014404	GSM3101174	STAD	61	Diffuse	M	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	Mes
+SRR7014417	GSM3101187	STAD	36	Diffuse	F	poorly cohesive carcinoma	PUB_Kim_GSE113255	1	NA	F
